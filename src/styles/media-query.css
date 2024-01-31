@@ -11,9 +11,9 @@
       margin-right: 5px !important;
     } */
   
-    /* .offer__list-item {
+    .offer__list-item {
       grid-template-columns: 1fr 1fr !important;
-    } */
+    }
   }
   
   @media screen and (min-width: 1016px) and (max-width: 1140px) {
